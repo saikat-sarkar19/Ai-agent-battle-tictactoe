@@ -1,0 +1,12 @@
+{
+    "total_games": 10,
+    "nexus_wins": 1,
+    "titan_wins": 1,
+    "draws": 8,
+    "avg_moves": 8.5,
+    "avg_nexus_nodes_eval": 307.6,
+    "avg_titan_nodes_eval": 322.9,
+    "avg_nexus_nodes_pruned": 142.6,
+    "avg_titan_nodes_pruned": 135.6,
+    "avg_execution_time_sec": 0.0028
+}
